@@ -1,8 +1,8 @@
 {
-  "homepage": "https://aideahub.github.io/aiautomation",
+  "homepage": "https://aideahub.github.io/aiautomation/",
   "name": "aideahub",
-  "private": true,
   "version": "0.1.0",
+  "private": true,
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
